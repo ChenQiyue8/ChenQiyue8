@@ -8,4 +8,4 @@ Besides technical skills, I deeply value interpersonal connections, and I like t
 
 ## hobbies:
 ----
-board game, tennis, do random arduino project, play Shenzheng I/O (steam game)
+Playing board games, tennis, do cool arduino project, play Shenzheng I/O (steam game)

@@ -7,15 +7,15 @@ Undertaken several Arduino projects related to IoT and smart homes. Recently try
 Besides technical skills, I deeply value interpersonal connections, and I like to engage in thoughtful conversations to gain insights into the thought processes and motivations of others, being a listening ear enables me to provide tailored support and meet their individual needs.
 
 ## Hobbies:
-Playing board games,
+* Playing board games
 
-Tennis, 
+* Tennis
 
-Having insightful conversations with different people, 
+* Having insightful conversations with different people
 
-Cool arduino project, 
+* Cool arduino project
 
-Shenzheng I/O (pc game)
+* Shenzheng I/O (pc game)
 
 
 ## Soulcare:

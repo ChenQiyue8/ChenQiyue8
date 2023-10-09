@@ -10,4 +10,4 @@ Besides technical skills, I deeply value interpersonal connections, and I like t
 Playing board games, tennis, do cool arduino project, play Shenzheng I/O (steam game)
 
 ## Soulcare:
-My favorate way to do soulcare is to read a philosophical book alone on a warm, sunny afternoon with smooth Jazz
+Reading a philosophical book alone on a warm, sunny afternoon with smooth Jazz

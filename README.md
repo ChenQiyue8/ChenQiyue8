@@ -15,7 +15,7 @@ Besides technical skills, I deeply value interpersonal connections, and I like t
 
 * Cool arduino project
 
-* Shenzheng I/O (pc game)
+Favorite PC game: Shenzheng I/O
 
 
 ## Soulcare:

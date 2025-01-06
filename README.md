@@ -19,4 +19,4 @@ Favorite PC game: Shenzheng I/O
 
 
 ## Soulcare:
-Reading a philosophical book alone on a warm, sunny afternoon with smooth Jazz
+Read a philosophical book alone on a warm, sunny afternoon with smooth Jazz
